@@ -1,3 +1,3 @@
 # WanTale 📖
-<img alt="banniere" align="right"  height="100%" width="100%" src="photos/WanTale.png">
-A tiny application for androïd/ios to read books made with the python library named Flet
+<div align="center"><img alt="banniere" align="center"  height="50%" width="90%" src="photos/WanTale.png"></div>
+WanTale is an application for androïd and ios📱. The application
