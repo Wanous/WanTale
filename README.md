@@ -7,6 +7,7 @@ ___
   <img alt="Taille du code GitHub" src="https://img.shields.io/github/languages/code-size/Wanous/WanTale?label=taille%20du%20code">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Wanous/WanTale?logo=github&style=plastic">
   <img alt="License" src="https://img.shields.io/github/license/Wanous/WanTale?style=plastic">
+  <br>
 </div>
 
 
