@@ -5,8 +5,9 @@ ___
 WanTale is an application for **androïd** and **ios**📱. With this application you can gather all your books in one place and of course read them.
 He was made with **python** and the library **Flet**.
 
-##Interface
-Here there will be images of the interface 
+## Interface
 
-##Menus 
-Here a board with the menu and the description
+[Here there will be images of the interface]
+
+## Menus 
+[Here a board with the menu and the description]
