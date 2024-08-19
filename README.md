@@ -22,7 +22,6 @@ He was made with **python** and the library **Flet**.
 
 ## Interface
 
-[Here there will be images of the interface]
 The interface have been made to be really simple for the user. So you have a total of 4 menus :
 
 | menu | what is it ? | 
@@ -32,6 +31,7 @@ The interface have been made to be really simple for the user. So you have a tot
 | **Favorite**| See your favorite books | 
 | **Parameters**| Change the parameters of the app such as the color of the background | 
 
+Here a photo to see how it look
 
 ## Menus 
 [Here a board with the menu and the description]
