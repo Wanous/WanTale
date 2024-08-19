@@ -25,6 +25,13 @@ He was made with **python** and the library **Flet**.
 [Here there will be images of the interface]
 The interface have been made to be really simple for the user. So you have a total of 4 menus :
 
+| menu | what is it ? | 
+|:-------------:|:--------------|
+| **Search** | Search a book in all of your books |
+| **Local** | See the books you have| 
+| **Favorite**| See your favorite books | 
+| **Parameters**| Change the parameters of the app such as the color of the background | 
+
 
 ## Menus 
 [Here a board with the menu and the description]
