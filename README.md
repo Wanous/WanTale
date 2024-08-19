@@ -23,6 +23,8 @@ He was made with **python** and the library **Flet**.
 ## Interface
 
 [Here there will be images of the interface]
+The interface have been made to be really simple for the user. So you have a total of 4 menus :
+
 
 ## Menus 
 [Here a board with the menu and the description]
